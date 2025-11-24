@@ -19,7 +19,7 @@ pip install flask pycryptodome requests
 Abre una terminal PowerShell en la carpeta del proyecto:
 
 ```powershell
-python "server (1).py"
+python "server.py"
 ```
 
 **Salida esperada:**
